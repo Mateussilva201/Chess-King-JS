@@ -4,7 +4,7 @@ justify-content: center;
 align-items: center;
 height: 100vw;
 flex-direction: column;
-background-color: rgb(0, 0, 0);
+background-color: blanchedalmond;
 }
 
 #gameboard {
@@ -33,7 +33,7 @@ background-color: rgb(227, 227, 199);
 
 #info {
 height: 30px;
-color: white;
+
 }
 
 
