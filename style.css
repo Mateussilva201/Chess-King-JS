@@ -1,0 +1,55 @@
+body { 
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vw;
+flex-direction: column;
+background-color: rgb(0, 0, 0);
+}
+
+#gameboard {
+display: flex;
+
+}
+
+.square {
+width: 200px;
+height: 200px;
+
+}
+
+
+.beige
+{
+background-color: rgb(227, 227, 199);
+
+}
+
+.brown {
+
+    background-color: rgb(96, 54, 54);
+
+}
+
+#info {
+height: 30px;
+}
+
+
+.chess.piece {
+width: 200px;
+height: 200px;
+}
+
+
+.highlight {
+background-color: rgb(45, 219, 2);
+
+}
+
+.target {
+
+border: solid 1px rgb(255, 0, 0);
+box-sizing: border-box;
+
+}
